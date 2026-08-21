@@ -176,27 +176,35 @@ plt.show()
 ##  Expected Output
 
 * Original image
+
 ![alt text](<Screenshot 2026-08-21 082043.png>)
 
 * Grayscale image
+
 ![alt text](<Screenshot 2026-08-21 082056.png>)
 
 * Thresholded image
+
 ![alt text](<Screenshot 2026-08-21 082106.png>)
 
 * ROI masked image
+
 ![alt text](<Screenshot 2026-08-21 082117.png>)
 
 * Edge detected image
+
 ![alt text](<Screenshot 2026-08-21 082152.png>)
 
 * Smoothed image
+
 ![alt text](<Screenshot 2026-08-21 082205.png>)
 
 * Detected lines
+
 ![alt text](<Screenshot 2026-08-21 082216.png>)
 
 * Final lane detection output
+
 ![alt text](<Screenshot 2026-08-21 082228.png>)
 
 ---
